@@ -49,5 +49,3 @@ Notebook analisis ini dibuat di Google Colab dan mencakup proses mulai dari:
 - Visualisasi data
 - Insight dan kesimpulan
 
-📎 **Link notebook:** [`Analisis Penjualan Superstore.ipynb`](./Analisis Penjualan Superstore.ipynb)
-
